@@ -122,6 +122,7 @@ p{
 }
 .we-create li{
 	display:inline-block;
+        text-align: left;
 	font-family: 'Montserrat',sans-serif;
 	font-size:14px;
 	color: #bcbcbc;
